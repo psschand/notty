@@ -1,0 +1,1 @@
+ //export class GlogComponent implements OnInit { constructor() { }ngOnInit() {}}
